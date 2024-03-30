@@ -17,7 +17,7 @@ the project.
 
 First in, first Out method (FIFO) is used as an accounting method. The analysis is on a wallet-by-wallet basis.
 If units of multiple virtual currencies or multiple kinds of other tokens are held, the method may be elected separately
-for each virtual currency and each kind of other token.
+for each virtual currency and each kind of another token.
 Total profit/loss is calculated by combining data from all available accounts/wallets.
 
 ### Buy/Sell
@@ -79,7 +79,4 @@ Total profit/loss is calculated by combining data from all available accounts/wa
 
 ### Resources
 
-[DE: Einzelfragen zur ertragsteuerrechtlichen Behandlung von virtuellen Währungen und
-von sonstigen Token](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2022-05-09-einzelfragen-zur-ertragsteuerrechtlichen-behandlung-von-virtuellen-waehrungen-und-von-sonstigen-token-bmf-schreiben.pdf?__blob=publicationFile&v=3)
-
-[EN: Treatment of virtual currencies and other tokens under German Income Tax Law](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2022-05-09-einzelfragen-zur-ertragsteuerrechtlichen-behandlung-von-virtuellen-waehrungen-und-von-sonstigen-token-englische-version.pdf?__blob=publicationFile&v=4)
+[Einzelfragen zur ertragsteuerrechtlichen Behandlung von virtuellen Währungen und von sonstigen Token](https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2022/05/2022-05-09-einzelfragen-zur-ertragsteuerrechtlichen-behandlung-von-virtuellen-waehrungen-und-von-sonstigen-token.html](https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2022/05/2022-05-09-einzelfragen-zur-ertragsteuerrechtlichen-behandlung-von-virtuellen-waehrungen-und-von-sonstigen-token.html)
